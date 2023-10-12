@@ -3,7 +3,7 @@ title: "Matías Osta-Vélez"
 about:
   id: hero-heading
   template: jolla
-  image: /img/profilepic.png
+  image: /profilepic.png
   links:
     - icon: ResearchGate
       text: Researchgate
