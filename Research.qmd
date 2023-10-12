@@ -1,0 +1,73 @@
+---
+title: "Publications"
+---
+<br>
+
+Journal articles
+-------------
+
+#### Reasoning with Concepts: A unifying approach
+Forthcoming in *Minds & Machines*, 2023. [Read more](https://link.springer.com/article/10.1007/s11023-023-09640-2)  
+Peter Gärdenfors, Matías Osta-Vélez.
+
+#### Similarity-based reasoning in conceptual spaces
+In *Frontiers in Psychology*, 2023. [Read more](https://www.frontiersin.org/articles/10.3389/fpsyg.2023.1234483/full)  
+Igor Douven, Steven Verheyen, Shira Elqayam, Peter Gärdenfors and Matías Osta-Vélez.
+
+#### Analogy as a search procedure: A dimensional view
+In *Journal of Experimental & Theoretical Artificial Intelligence*, 2022. [Read more](https://www.tandfonline.com/doi/abs/10.1080/0952813X.2022.2125081)  
+Matías Osta-Vélez, Peter Gärdenfors.
+
+
+#### Nonmonotonic Reasoning, Expectations Orderings, and Conceptual Spaces
+In *Journal of Logic, Language and Information*, 2021. [Read more](https://link.springer.com/article/10.1007/s10849-021-09347-6)  
+Matías Osta-Vélez, Peter Gärdenfors.
+
+#### Category-based induction in conceptual spaces
+In *Journal of Mathematical Psychology*, 2020. [Read more](https://www.sciencedirect.com/science/article/abs/pii/S002224962030033X)  
+Matías Osta-Vélez, Peter Gärdenfors.
+
+#### Methods of Representation as Inferential Devices
+In *Journal for General Philosophy of Science*, 2019. [Read more](https://link.springer.com/article/10.1007/s10838-019-09449-7)  
+Matías Osta-Vélez.
+
+Book Chapters
+-------------
+#### Language, Concepts and the Nature of Inference
+In E. Caorsi and R. Navia (Eds.) *Language, Meaning, and Philosophy: Philosophy of Language in Uruguay*, Lexington books, forthcoming.
+Matías Osta-Vélez
+
+#### La matematización galileana de la naturaleza según Husserl
+In C. Pallas (Ed.) *La Filosofía y su Enseñanza*, ANEP-CFE, 2016.
+Matías Osta-Vélez
+
+Book Reviews
+-------------
+
+#### The Enigma of Reason
+In *Philosophical Psychology*, 2019. [Read more](https://www.tandfonline.com/doi/full/10.1080/09515089.2019.1632429)
+Matías Osta-Vélez
+
+####  Ignorant cognition [Review of Ignorant cognition by S. Arfini]
+In *Studies in Philosophy and Education*, 2021. [Read more](https://link.springer.com/article/10.1007/s11217-021-09753-0)
+Matías Osta-Vélez
+
+#### Review of E. Grosholz “Representation and Productive Ambiguity in Mathematics and the Sciences
+In *Galileo*, HIG, 18, 2011.
+Matías Osta-Vélez
+
+
+Under review
+-------------
+
+#### Explicating conceptual cohrence
+Matías Osta-Vélez, Peter Gärdenfors
+
+#### The essence of a concept is its principal components
+Peter Gärdenfors, Matías Osta-Vélez
+
+#### Generics as expectations
+Peter Gärdenfors, Matías Osta-Vélez
+
+<!-- Add more articles as needed -->
+

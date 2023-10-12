@@ -1,0 +1,30 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Matías Osta-Vélez"
+  
+  navbar:
+    background: secondary
+    search: true
+    left:
+      - text: "Home"
+        href: index.html
+      - text: "Research"
+        href: Research.html
+      - text: "Talks"
+        href: talks.html
+      - text: "Teaching"
+        href: Teaching.html
+
+
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+

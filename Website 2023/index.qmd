@@ -1,0 +1,44 @@
+---
+title: "Matías Osta-Vélez"
+about:
+  id: hero-heading
+  template: jolla
+  image: /img/profilepic.png
+  links:
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com
+    - icon: github
+      text: Github
+      href: https://github.com
+---
+<br />
+
+:::{#hero-heading}
+<br />
+
+​I am a postdoctoral researcher at the Department of Philosophy, Heinrich-Heine University in Düsseldorf.  I am also Lecturer at the Department of History and Philosophy of Science, University of the Republic, associated researcher (Lvl 1) at ANII, and external member of the 
+[Munich Center for Mathematical Philosophy](https://mmistakes.github.io/minimal-mistakes/)
+
+My work is focused on the foundations of cognitive science. In particular, I research about theories of reasoning and formal models of concepts. Other academic interests are philosophy of language (inferentialism), non-classical logic (relevant logics), social epistemology, and general philosophy of science (conceptual change and scientific rationality). 
+
+I studied philosophy, mathematical logic, and cognitive science at the University of the Republic, at the University of Paris 1 Panthéon-Sorbonne, and at the Ludwig-Maximilians-Universität. I did my PhD under the supervision of Stephan Hartmann and Max Kistler at the Munich Center for Mathematical Philosophy (LMU) and at the [Institut d'Histoire et de Philosophie des Sciences et des Techniques](https://ihpst.pantheonsorbonne.fr)(Paris 1/CNRS).
+
+<br>
+
+### Education
+
+Ludwig-Maximilians-Universitaet & Université Paris 1 Panthéon Sorbone | Munich/Paris <br />
+PhD in Philosophy of Science | 2017 - June 2020
+
+Université Paris 1 Panthéon Sorbone | Paris <br />
+Master in Logic, Philosophy of Science and Epistemology | Sept 2007 - June 2011
+
+Université Paris 1 Panthéon Sorbone | Paris <br />
+Master in Mathematical Logic | Sept 2007 - June 2011
+
+Universidad de la República | Montevideo <br />
+BA in Philosophy | 2005-2010
+
+
+:::
