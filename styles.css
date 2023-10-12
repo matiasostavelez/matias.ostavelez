@@ -1,0 +1,28 @@
+/* css styles */
+/* css styles */
+
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300&family=Roboto+Slab:wght@200&display=swap');
+
+.navbar-brand {
+  color: #00008B; /* This is the hex code for deep blue */
+  font-size: 24px; /* Adjust this value to make the title bigger or smaller */
+}
+
+body {
+  color: #000000;
+  font-size: 23px;
+  text-align: justify;
+  font-family: 'Cormorant Garamond', serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Roboto Slab', serif;
+}
+
+article {
+  border: 1px solid #000000;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+
