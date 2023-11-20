@@ -17,8 +17,7 @@ about:
 :::{#hero-heading}
 <br />
 
-​I am a postdoctoral researcher at the Department of Philosophy, Heinrich-Heine University in Düsseldorf.  I am also Lecturer at the Department of History and Philosophy of Science, University of the Republic, associated researcher (Lvl 1) at ANII, and external member of the 
-[Munich Center for Mathematical Philosophy](https://mmistakes.github.io/minimal-mistakes/)
+​I am a postdoctoral researcher at the Department of Philosophy, Heinrich-Heine University in Düsseldorf. I am also Lecturer at the Department of History and Philosophy of Science, University of the Republic, associated researcher (Lvl 1) at [ANII](https://www.anii.org.uy), and external member of the [Munich Center for Mathematical Philosophy](https://www.mcmp.philosophie.uni-muenchen.de/index.html). Before that, I was a NeuroMind Fellow at Ruhr-Universität Bochum working with Peter Brössel in Emmy Noether Research Group ["From Perception To Belief and Back Again"](https://fromperceptiontobelief.wordpress.com).
 
 My work is focused on the foundations of cognitive science. In particular, I research about theories of reasoning and formal models of concepts. Other academic interests are philosophy of language (inferentialism), non-classical logic (relevant logics), social epistemology, and general philosophy of science (conceptual change and scientific rationality). 
 
