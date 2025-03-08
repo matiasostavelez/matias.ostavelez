@@ -4,12 +4,12 @@
 
 .navbar-brand {
   color: #00008B; /* This is the hex code for deep blue */
-  font-size: 24px; /* Adjust this value to make the title bigger or smaller */
+  font-size: 22px; /* Adjust this value to make the title bigger or smaller */
 }
 
 body {
   color: #000000;
-  font-size: 23px;
+  font-size: 21px;
   text-align: justify;
   font-family: 'Cormorant Garamond', serif;
 }
