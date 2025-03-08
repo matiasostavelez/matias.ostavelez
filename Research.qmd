@@ -5,6 +5,13 @@ title: "Publications"
 
 Journal articles
 -------------
+#### Analogical Reasoning: A Carnapian Approach
+Forthcoming in *Synthese*, 2025. [Read more]()  
+Igor Douven, Steven Verheyen, Shira Elqayam, Peter Gärdenfors and Matías Osta-Vélez.
+
+#### Generics as Expectations: Typicality and Diagnosticity
+In *Ratio*, 2024. [Read more](https://onlinelibrary.wiley.com/doi/10.1111/rati.12424)  
+Peter Gärdenfors, Matías Osta-Vélez.
 
 #### Reasoning with Concepts: A unifying approach
 Forthcoming in *Minds & Machines*, 2023. [Read more](https://link.springer.com/article/10.1007/s11023-023-09640-2)  
